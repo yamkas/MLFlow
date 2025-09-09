@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/914774944394411143/4456a232bec34380ae1be18ae03f6095/artifacts
+deleted_time: 1757070422612
+end_time: 1757070375538
+entry_point_name: ''
+experiment_id: '914774944394411143'
+lifecycle_stage: deleted
+run_id: 4456a232bec34380ae1be18ae03f6095
+run_name: rogue-foal-824
+run_uuid: 4456a232bec34380ae1be18ae03f6095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757070375200
+status: 4
+tags: []
+user_id: user

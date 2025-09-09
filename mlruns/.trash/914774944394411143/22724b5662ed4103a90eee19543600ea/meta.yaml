@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/914774944394411143/22724b5662ed4103a90eee19543600ea/artifacts
+deleted_time: 1757070292372
+end_time: 1757070018426
+entry_point_name: ''
+experiment_id: '914774944394411143'
+lifecycle_stage: deleted
+run_id: 22724b5662ed4103a90eee19543600ea
+run_name: mercurial-goat-105
+run_uuid: 22724b5662ed4103a90eee19543600ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757070017805
+status: 4
+tags: []
+user_id: user
