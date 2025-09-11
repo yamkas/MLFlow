@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlowTester/DLMLFLOW/mlruns/369318372333134349/d3df204993be4132b0059215725552fb/artifacts
+end_time: 1757579551215
+entry_point_name: ''
+experiment_id: '369318372333134349'
+lifecycle_stage: active
+run_id: d3df204993be4132b0059215725552fb
+run_name: flawless-finch-323
+run_uuid: d3df204993be4132b0059215725552fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757579462509
+status: 3
+tags: []
+user_id: user

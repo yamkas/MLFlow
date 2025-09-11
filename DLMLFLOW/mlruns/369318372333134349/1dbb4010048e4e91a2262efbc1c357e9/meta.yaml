@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlowTester/DLMLFLOW/mlruns/369318372333134349/1dbb4010048e4e91a2262efbc1c357e9/artifacts
+end_time: 1757579584543
+entry_point_name: ''
+experiment_id: '369318372333134349'
+lifecycle_stage: active
+run_id: 1dbb4010048e4e91a2262efbc1c357e9
+run_name: rogue-asp-392
+run_uuid: 1dbb4010048e4e91a2262efbc1c357e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757579568121
+status: 3
+tags: []
+user_id: user

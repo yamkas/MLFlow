@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlowTester/DLMLFLOW/mlruns/369318372333134349/4e1c9cfbddd940468ca9d3bdf38c92fc/artifacts
+end_time: 1757579567936
+entry_point_name: ''
+experiment_id: '369318372333134349'
+lifecycle_stage: active
+run_id: 4e1c9cfbddd940468ca9d3bdf38c92fc
+run_name: rogue-pug-975
+run_uuid: 4e1c9cfbddd940468ca9d3bdf38c92fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757579551377
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MLFlowTester/DLMLFLOW/mlruns/369318372333134349/c332483a00be487d8da0c4f0b39e0d23/artifacts
+end_time: 1757579612633
+entry_point_name: ''
+experiment_id: '369318372333134349'
+lifecycle_stage: active
+run_id: c332483a00be487d8da0c4f0b39e0d23
+run_name: colorful-grouse-155
+run_uuid: c332483a00be487d8da0c4f0b39e0d23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757579450014
+status: 3
+tags: []
+user_id: user
